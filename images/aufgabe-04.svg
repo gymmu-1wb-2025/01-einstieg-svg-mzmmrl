@@ -1,20 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="500" version="1.1" width="500">
 
-<rect 
-    x="175" 
-    y="175" 
-    width="150" 
-    height="150" 
-    fill="midnightblue"/> 
+<rect fill="midnightblue" height="150" width="150" x="175" y="175" /> 
 
-<rect 
-    x="0" 
-    y="0" 
-    width="212.5" 
-    height="212.5" 
-    stroke="red"
-    strokewidth="15"
+<rect
     fill="transparent"
-    transform="translate(250 100) rotate(45)" /> 
+    height="212.5"
+    stroke="red"
+    strokewidth=""
+    transform="translate(250 100) rotate(45)"
+    width="212.5"
+    x="0"
+    y="0"
+  /> 
 
-<circle cx="250" cy="250" r="2" fill="beige" />
+</svg>
