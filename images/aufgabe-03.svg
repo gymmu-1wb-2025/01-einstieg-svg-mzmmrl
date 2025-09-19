@@ -1,3 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="500" version="1.1" width="500">
 
+<circle
+    cx="250"
+    cy="250"
+    fill="transparent"
+    r="50"
+    stroke="#5486b2"
+    strokewidth="20"
+  />
+<rect
+    fill="transparent"
+    height="100"
+    stokewidth="20"
+    stroke="fuchsia"
+    width="100"
+    x="200"
+    y="200"
+  /> 
+
+
 </svg>
