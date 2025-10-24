@@ -1,3 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="500" version="1.1" width="500">
 
+ <path
+    d="M 250 50
+  l 100 100
+  l 0 150
+  m 0 -150
+  l -200 0
+  M 250 50 
+  l -100 100
+  l 0 150 
+  l 200 0
+  l -200 -150
+  m 200 0
+  l -200 150"
+    fill="none"
+    stroke="cyan"
+    stroke-width="5"
+  />
 </svg>
